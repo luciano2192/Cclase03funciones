@@ -32,6 +32,6 @@ b - git add .
 
 c - git commit -m "mensaje"
 
-Solo para subir a la web
+    Solo para subir a la web
 
 d - git push
